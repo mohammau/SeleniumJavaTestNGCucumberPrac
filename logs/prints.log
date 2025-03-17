@@ -9,3 +9,25 @@
 12:14:03.313 [main] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
 12:14:04.421 [main] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
 12:14:04.531 [main] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+09:02:16.213 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+09:02:18.359 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+09:02:18.425 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+09:02:18.451 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+09:02:20.815 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+09:02:20.824 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+09:02:20.969 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Name Entered
+09:02:21.000 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email Entered
+09:02:21.030 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+09:02:22.034 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+09:02:22.157 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+09:07:38.854 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+09:07:42.465 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+09:07:42.516 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+09:07:42.533 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+09:07:44.883 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+09:07:44.895 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+09:07:44.982 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Name Entered
+09:07:45.005 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email Entered
+09:07:46.533 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+09:07:46.544 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+09:07:46.652 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Closed

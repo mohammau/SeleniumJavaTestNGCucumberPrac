@@ -17,7 +17,7 @@
 	</Appenders>
 	<Loggers>
 		<Root level="ALL">
-			<AppenderRef ref="Console" />
+			<AppenderRef ref="File" />
 		</Root>
 	</Loggers>
 </Configuration>
