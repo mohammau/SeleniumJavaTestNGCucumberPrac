@@ -16,7 +16,6 @@ import resources.Base;
 
 public class logout extends Base {
 	
-	WebDriver driver ;
 	LandingPage lp;
 	LoginSignUpPage lsp;
 	LoggedInUser lu;
@@ -31,13 +30,15 @@ public class logout extends Base {
 	public void Navigate_to_url() {
 
 	driver.get(prop.getProperty("URL"));
-	PopUpMessages pop = new PopUpMessages(driver);
-	pop.popUpMessage().click();
+	
 	
 	}
 	
 	@Then("^Verify that home page is visible successfully$")
 	public void Verify_that_home_page_is_visible_successfully() {
+		
+		PopUpMessages pop = new PopUpMessages(driver);
+		pop.popUpMessage().click(); 
 		
 		lp = new LandingPage(driver);
 		

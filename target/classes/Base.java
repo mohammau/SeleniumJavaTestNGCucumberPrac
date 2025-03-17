@@ -20,7 +20,7 @@ import org.testng.annotations.Test;
 
 public class Base {
 	
-	public WebDriver driver ;
+	public  WebDriver driver ;
 	public Properties prop ;
 	
 	

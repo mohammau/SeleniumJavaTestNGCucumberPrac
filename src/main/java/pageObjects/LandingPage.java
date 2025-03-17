@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LandingPage {
 	
-	WebDriver driver;
+	public WebDriver driver;
 	
 	public LandingPage(WebDriver driver) {
 		
@@ -16,11 +16,14 @@ public class LandingPage {
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(xpath = "//a[@href='/' and contains(text(),'Home')]")
+	@FindBy(xpath = "//a[@href='/' and @style='color: orange;' and contains(text(),'Home')]")
 	private WebElement homePage ;
 	
 	@FindBy(xpath = "//a[@href='/login']")
 	private WebElement loginCTA ;
+	
+	@FindBy(xpath = "//a[@href='/products']")
+	private WebElement productsCTA ;
 	
 	public WebElement homePage() {
 		
@@ -30,6 +33,11 @@ public class LandingPage {
 	public WebElement loginCTA() {
 		
 		return loginCTA;
+	}
+	
+	public WebElement productsCTA() {
+		
+		return productsCTA ;
 	}
 
 }
