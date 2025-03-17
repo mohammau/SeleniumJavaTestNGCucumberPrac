@@ -1,0 +1,11 @@
+12:13:57.984 [main] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+12:14:00.064 [main] DEBUG tests.RegisterUserExistingEmail - Website Opened
+12:14:00.121 [main] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+12:14:00.147 [main] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+12:14:03.157 [main] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+12:14:03.168 [main] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+12:14:03.262 [main] DEBUG tests.RegisterUserExistingEmail - Name Entered
+12:14:03.283 [main] DEBUG tests.RegisterUserExistingEmail - Email Entered
+12:14:03.313 [main] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+12:14:04.421 [main] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+12:14:04.531 [main] DEBUG tests.RegisterUserExistingEmail - Browser Closed

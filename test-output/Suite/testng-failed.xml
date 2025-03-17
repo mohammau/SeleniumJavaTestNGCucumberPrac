@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Test2(failed)">
+    <classes>
+      <class name="tests.Failintentional">
+        <methods>
+          <include name="failedTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.Failintentional -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
