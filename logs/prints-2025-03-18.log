@@ -1,0 +1,120 @@
+12:13:57.984 [main] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+12:14:00.064 [main] DEBUG tests.RegisterUserExistingEmail - Website Opened
+12:14:00.121 [main] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+12:14:00.147 [main] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+12:14:03.157 [main] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+12:14:03.168 [main] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+12:14:03.262 [main] DEBUG tests.RegisterUserExistingEmail - Name Entered
+12:14:03.283 [main] DEBUG tests.RegisterUserExistingEmail - Email Entered
+12:14:03.313 [main] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+12:14:04.421 [main] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+12:14:04.531 [main] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+09:02:16.213 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+09:02:18.359 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+09:02:18.425 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+09:02:18.451 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+09:02:20.815 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+09:02:20.824 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+09:02:20.969 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Name Entered
+09:02:21.000 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email Entered
+09:02:21.030 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+09:02:22.034 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+09:02:22.157 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+09:07:38.854 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+09:07:42.465 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+09:07:42.516 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+09:07:42.533 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+09:07:44.883 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+09:07:44.895 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+09:07:44.982 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Name Entered
+09:07:45.005 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email Entered
+09:07:46.533 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+09:07:46.544 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+09:07:46.652 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+09:22:35.823 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+09:22:38.003 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+09:22:38.069 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+09:22:38.099 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+09:22:40.509 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+09:22:40.520 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+09:22:40.622 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Name Entered
+09:22:40.644 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email Entered
+09:22:42.665 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+09:22:42.674 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+09:22:42.787 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+13:41:40.898 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+13:41:52.423 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+13:41:52.751 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+13:43:15.436 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+13:43:17.476 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+13:43:17.556 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+13:43:17.581 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+13:43:20.130 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+13:43:20.144 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+13:43:20.251 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Name Entered
+13:43:20.305 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email Entered
+13:43:21.318 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+13:43:21.339 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+13:43:21.487 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+13:46:43.850 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Launched
+13:46:46.417 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Website Opened
+13:46:46.508 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Pop Up Message Clicked
+13:46:46.563 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Home Page is displayed
+13:46:47.869 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Login Clicked
+13:46:47.883 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUpHeaderTextDisplayed
+13:46:48.031 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Name Entered
+13:46:48.079 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email Entered
+13:46:48.127 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - SignUp button clicked
+13:46:49.703 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Email exits message seen
+13:46:49.795 [TestNG-tests-1] DEBUG tests.RegisterUserExistingEmail - Browser Closed
+14:08:00.908 [main] DEBUG pageObjects.RegisteredUserPage - Website launched
+14:08:00.976 [main] DEBUG pageObjects.RegisteredUserPage - Pop up message clicked
+14:08:04.207 [main] DEBUG pageObjects.RegisteredUserPage - Sign Up option clicked
+14:08:04.222 [main] DEBUG pageObjects.RegisteredUserPage - Registration header is displayed
+14:08:04.271 [main] DEBUG pageObjects.RegisteredUserPage - Name entered
+14:08:04.347 [main] DEBUG pageObjects.RegisteredUserPage - email entered
+14:08:05.448 [main] DEBUG pageObjects.RegisteredUserPage - Sign up CTA clicked
+14:08:15.570 [main] DEBUG pageObjects.RegisteredUserPage - Session ended
+14:08:49.031 [main] DEBUG pageObjects.RegisteredUserPage - Website launched
+14:08:49.096 [main] DEBUG pageObjects.RegisteredUserPage - Pop up message clicked
+14:08:51.022 [main] DEBUG pageObjects.RegisteredUserPage - Sign Up option clicked
+14:08:51.039 [main] DEBUG pageObjects.RegisteredUserPage - Registration header is displayed
+14:08:51.156 [main] DEBUG pageObjects.RegisteredUserPage - Name entered
+14:08:51.185 [main] DEBUG pageObjects.RegisteredUserPage - email entered
+14:08:51.217 [main] DEBUG pageObjects.RegisteredUserPage - Sign up CTA clicked
+14:09:03.180 [main] DEBUG pageObjects.RegisteredUserPage - Session ended
+14:11:17.144 [main] DEBUG pageObjects.RegisteredUserPage - Website launched
+14:11:17.208 [main] DEBUG pageObjects.RegisteredUserPage - Pop up message clicked
+14:11:19.537 [main] DEBUG pageObjects.RegisteredUserPage - Sign Up option clicked
+14:11:19.564 [main] DEBUG pageObjects.RegisteredUserPage - Registration header is displayed
+14:11:19.694 [main] DEBUG pageObjects.RegisteredUserPage - Name entered
+14:11:19.719 [main] DEBUG pageObjects.RegisteredUserPage - email entered
+14:11:19.749 [main] DEBUG pageObjects.RegisteredUserPage - Sign up CTA clicked
+14:11:21.484 [main] DEBUG pageObjects.RegisteredUserPage - Registration page header is displayed
+14:11:21.545 [main] DEBUG pageObjects.RegisteredUserPage - Title entered
+14:11:21.584 [main] DEBUG pageObjects.RegisteredUserPage - Password entered
+14:11:21.645 [main] DEBUG pageObjects.RegisteredUserPage - Day selected
+14:11:21.737 [main] DEBUG pageObjects.RegisteredUserPage - Month Selected
+14:11:21.795 [main] DEBUG pageObjects.RegisteredUserPage - Year Selected
+14:11:21.820 [main] DEBUG pageObjects.RegisteredUserPage - Newsletter selected
+14:11:21.847 [main] DEBUG pageObjects.RegisteredUserPage - Offers selected
+14:11:21.871 [main] DEBUG pageObjects.RegisteredUserPage - First name of the company entered
+14:11:21.899 [main] DEBUG pageObjects.RegisteredUserPage - Last name of the company entered
+14:11:21.924 [main] DEBUG pageObjects.RegisteredUserPage - Company name entered
+14:11:21.948 [main] DEBUG pageObjects.RegisteredUserPage - House number entered
+14:11:21.975 [main] DEBUG pageObjects.RegisteredUserPage - Address line 2 entered
+14:11:22.028 [main] DEBUG pageObjects.RegisteredUserPage - Country selected
+14:11:22.053 [main] DEBUG pageObjects.RegisteredUserPage - State entered
+14:11:22.083 [main] DEBUG pageObjects.RegisteredUserPage - City entered
+14:11:22.110 [main] DEBUG pageObjects.RegisteredUserPage - Zipcode entered
+14:11:22.135 [main] DEBUG pageObjects.RegisteredUserPage - Mobile number entered
+14:11:22.183 [main] DEBUG pageObjects.RegisteredUserPage - Create account cta clicked
+14:12:38.295 [main] DEBUG pageObjects.RegisteredUserPage - Account created text is displayed
+14:12:42.453 [main] DEBUG pageObjects.RegisteredUserPage - Clicked on continue
+14:12:42.465 [main] DEBUG pageObjects.RegisteredUserPage - Logged in as Mohammad ummar
+14:12:43.406 [main] DEBUG pageObjects.RegisteredUserPage - Account Deleted
+14:12:46.548 [main] DEBUG pageObjects.RegisteredUserPage - Closed the account delete page
+14:12:46.665 [main] DEBUG pageObjects.RegisteredUserPage - Session ended
+14:18:41.382 [main] DEBUG pageObjects.RegisteredUserPage - Website launched
+14:18:41.439 [main] DEBUG pageObjects.RegisteredUserPage - Pop up message clicked
+14:18:42.672 [main] DEBUG pageObjects.RegisteredUserPage - Sign Up option clicked

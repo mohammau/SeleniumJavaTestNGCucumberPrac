@@ -19,4 +19,9 @@
       <class name="tests.Failintentional"/>
     </classes>
   </test> <!-- Test -->
+   <test thread-count="5" name="Test3">
+    <classes>
+      <class name="tests.AddProductsCart"/>
+    </classes>
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
