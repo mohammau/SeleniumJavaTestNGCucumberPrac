@@ -20,8 +20,8 @@ import org.testng.annotations.Test;
 
 public class Base {
 	
-	public WebDriver driver ;
-	public Properties prop ;
+	public static WebDriver driver ;
+	public static Properties prop ;
 	
 	
 	public WebDriver initializeDriver() throws IOException {				

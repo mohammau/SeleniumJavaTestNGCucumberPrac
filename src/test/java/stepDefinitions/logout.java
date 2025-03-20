@@ -27,9 +27,11 @@ public class logout extends Base {
 	}
 	
 	@And("^Navigate to url 'http://automationexercise.com'$")
-	public void Navigate_to_url() {
+	public void Navigate_to_urll() {
 
 	driver.get(prop.getProperty("URL"));
+	PopUpMessages pum = new PopUpMessages(driver);
+	pum.popUpMessage().click();
 	
 	
 	}
@@ -37,17 +39,17 @@ public class logout extends Base {
 	@Then("^Verify that home page is visible successfully$")
 	public void Verify_that_home_page_is_visible_successfully() {
 		
-		PopUpMessages pop = new PopUpMessages(driver);
-		pop.popUpMessage().click(); 
-		
+//		PopUpMessages pop = new PopUpMessages(driver);
+//		pop.popUpMessage().click(); 
+	
 		lp = new LandingPage(driver);
 		
 		AssertJUnit.assertTrue(lp.homePage().isDisplayed());
 		
 	}
 	
-	@And("^Click on 'Signup / Login' button$")
-	public void Click_on_Signup_Login_button() {
+	@And("^Click onn 'Signup / Login' button$")
+	public void Click_onn_Signup_Login_button() {
 		
 		lp.loginCTA().click();
 		

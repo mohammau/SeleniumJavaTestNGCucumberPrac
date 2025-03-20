@@ -4,7 +4,7 @@ Scenario: Login user able to successfully logout of the application
 Given Launch browser
 And Navigate to url 'http://automationexercise.com'
 Then Verify that home page is visible successfully
-And Click on 'Signup / Login' button
+And Click onn 'Signup / Login' button
 Then Verify 'Login to your account' is visible
 And Enter correct email address and password
 And Click 'login' button
